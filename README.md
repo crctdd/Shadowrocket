@@ -1,5 +1,5 @@
 使用方法如下：
-1、复制这段链接‘https://raw.githubusercontent.com/crctdd/Shadowrocket-Auto/main/Shadowrocket-Auto.conf’。
+1、复制这段链接‘https://raw.githubusercontent.com/crctdd/Shadowrocket-Auto/main/Shadowrocket-Auto.conf’
 2、打开Shadowrocket，点击‘配置’-点击右上角‘+’，粘贴链接 点下载。
 ![5c53c94099e3916e76b4f722e361626](https://github.com/crctdd/Shadowrocket-Auto/assets/105903283/06ad41e3-baf6-4aa1-b2a7-89257fbf0d67)
 ![c640eceb114d70527ef69d14767e6e1](https://github.com/crctdd/Shadowrocket-Auto/assets/105903283/f7969d06-c379-4e7b-9848-4ad8f2dfc460)
