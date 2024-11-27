@@ -4,7 +4,7 @@
 
 
 
-1、复制这段链接https://raw.githubusercontent.com/crctdd/Shadowrocket-Auto/main/Shadowrocket-Auto.conf
+1、复制链接
 
 
 
