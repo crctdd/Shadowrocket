@@ -1,46 +1,46 @@
 # 广东反Zha的DNS
-DOMAIN, 157.148.47.204, reject
-DOMAIN-SUFFIX, 157.148.47.204, reject
-IP-CIDR, 157.148.47.204/32, reject
-IP-CIDR, 157.148.47.204/24, reject
-IP-CIDR, 157.148.47.204/16, reject
-IP-CIDR, 157.148.47.204/12, reject
-IP-CIDR, 157.148.47.204/8, reject
+DOMAIN,157.148.47.204
+DOMAIN-SUFFIX,157.148.47.204
+IP-CIDR,157.148.47.204/32
+IP-CIDR,157.148.47.204/24
+IP-CIDR,157.148.47.204/16
+IP-CIDR,157.148.47.204/12
+IP-CIDR,157.148.47.204/8
 
-DOMAIN, 219.143.187.136, reject
-DOMAIN-SUFFIX, 219.143.187.136, reject
-IP-CIDR, 219.143.187.136/32, reject
-IP-CIDR, 219.143.187.136/24, reject
-IP-CIDR, 219.143.187.136/16, reject
-IP-CIDR, 219.143.187.136/12, reject
-IP-CIDR, 219.143.187.136/8, reject
+DOMAIN,219.143.187.136
+DOMAIN-SUFFIX,219.143.187.136
+IP-CIDR,219.143.187.136/32
+IP-CIDR,219.143.187.136/24
+IP-CIDR,219.143.187.136/16
+IP-CIDR,219.143.187.136/12
+IP-CIDR,219.143.187.136/8
 
 # 反Zha插件 （主用）
-DOMAIN-KEYWORD, gjfzpt, reject             
-DOMAIN-KEYWORD, chanct, reject            
-DOMAIN-KEYWORD, ifcert.cn, reject
+DOMAIN-KEYWORD,gjfzpt          
+DOMAIN-KEYWORD,chanct          
+DOMAIN-KEYWORD,ifcert.cn
      
 # 反Zha插件（相关）                             
-DOMAIN-KEYWORD, fzlm, reject              
-DOMAIN-KEYWORD, fqzpt, reject              
-DOMAIN-SUFFIX, fanzha.org.cn, reject      
-DOMAIN-SUFFIX, hicore-auth.com, reject    
-DOMAIN-SUFFIX, hei-tong.com, reject       
+DOMAIN-KEYWORD,fzlm             
+DOMAIN-KEYWORD,fqzpt          
+DOMAIN-SUFFIX,fanzha.org.cn     
+DOMAIN-SUFFIX,hicore-auth.com    
+DOMAIN-SUFFIX,hei-tong.com       
                                     
 # 其他与反Zha插件窃取隐私相关的，潜在相关的有害网站          
-DOMAIN-SUFFIX, loongteam.com, reject      
-DOMAIN-SUFFIX, cert.org.cn, reject        
-DOMAIN-SUFFIX, ifcert.cn, reject          
-DOMAIN-SUFFIX, ifcert.com, reject         
-DOMAIN-SUFFIX, ifcert.org.cn, reject      
-DOMAIN-SUFFIX, cnvd.org.cn, reject        
-DOMAIN-SUFFIX, anva.org.cn, reject        
-DOMAIN-SUFFIX, ics-cert.org.cn, reject    
-DOMAIN-SUFFIX, certlab.org, reject        
-DOMAIN-SUFFIX, china-bestmind.com, reject 
-DOMAIN-SUFFIX, i-bestmind.com, reject     
-DOMAIN-SUFFIX, t-bestmind.com, reject     
-DOMAIN-SUFFIX, himindtech.com, reject     
-DOMAIN-SUFFIX, fhss.com.cn, reject        
-DOMAIN-SUFFIX, hailiangyun.cn, reject
+DOMAIN-SUFFIX,loongteam.com   
+DOMAIN-SUFFIX,cert.org.cn       
+DOMAIN-SUFFIX,ifcert.cn         
+DOMAIN-SUFFIX,ifcert.com        
+DOMAIN-SUFFIX,ifcert.org.cn      
+DOMAIN-SUFFIX,cnvd.org.cn       
+DOMAIN-SUFFIX,anva.org.cn     
+DOMAIN-SUFFIX,ics-cert.org.cn    
+DOMAIN-SUFFIX,certlab.org      
+DOMAIN-SUFFIX,china-bestmind.com 
+DOMAIN-SUFFIX,i-bestmind.com     
+DOMAIN-SUFFIX,t-bestmind.com    
+DOMAIN-SUFFIX,himindtech.com     
+DOMAIN-SUFFIX,fhss.com.cn     
+DOMAIN-SUFFIX,hailiangyun.cn
 
