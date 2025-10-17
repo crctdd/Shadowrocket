@@ -1,0 +1,13 @@
+# Talkatone
+
+DOMAIN,a1.tktn.be
+DOMAIN-KEYWORD,talkatone
+DOMAIN-KEYWORD,web.tktn.be
+DOMAIN-KEYWORD,app-analytics-services.com
+DOMAIN-SUFFIX,mobilefuse.com
+DOMAIN-SUFFIX,talkatone.com
+DOMAIN-SUFFIX,tktn.be
+DOMAIN-SUFFIX,talkatone.com
+IP-CIDR,205.164.56.0/24,no-resolve
+IP-CIDR,50.117.27.0/24,no-resolve
+IP-CIDR,69.46.75.0/24,no-resolve
